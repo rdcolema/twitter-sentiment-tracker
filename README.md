@@ -1,10 +1,9 @@
 # Twitter Sentiment Tracker
 
 <ul>
-  <p>-Listens to tweets in real times containing selected keywords</p>
-  <p>-Classifies sentiment as positive or negative</p>
-  <p>-Charts sentiment in real time</p>
-  <p>-Requires Twitter API registration</p>
+  <li>Listens to tweets in real times containing selected keywords</li>
+  <li>Classifies sentiment as positive or negative</li>
+  <li>Charts sentiment in real time</li>
 </ul>
 
-Live graphing borrowed from PP's <a href="https://pythonprogramming.net/tokenizing-words-sentences-nltk-tutorial/">NLP Tutorial</a>
+Requires Twitter API registration. Live graphing borrowed from <a href="https://pythonprogramming.net/tokenizing-words-sentences-nltk-tutorial/">this </a>NLP Tutorial.
